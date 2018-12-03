@@ -1,1 +1,1 @@
-# EMG-Controlled-Wheelchair
+# EMG Controlled Wheelchair
